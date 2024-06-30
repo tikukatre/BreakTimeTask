@@ -1,0 +1,11 @@
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\obj\Debug\netcoreapp3.0\BreakTimeTask.csprojAssemblyReference.cache
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\obj\Debug\netcoreapp3.0\BreakTimeTask.AssemblyInfoInputs.cache
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\obj\Debug\netcoreapp3.0\BreakTimeTask.AssemblyInfo.cs
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\bin\Debug\netcoreapp3.0\BreakTimeTask.exe
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\bin\Debug\netcoreapp3.0\BreakTimeTask.deps.json
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\bin\Debug\netcoreapp3.0\BreakTimeTask.runtimeconfig.json
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\bin\Debug\netcoreapp3.0\BreakTimeTask.runtimeconfig.dev.json
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\bin\Debug\netcoreapp3.0\BreakTimeTask.dll
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\bin\Debug\netcoreapp3.0\BreakTimeTask.pdb
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\obj\Debug\netcoreapp3.0\BreakTimeTask.dll
+C:\Users\jar20\OneDrive\Desktop\BreakTimeTask\obj\Debug\netcoreapp3.0\BreakTimeTask.pdb
